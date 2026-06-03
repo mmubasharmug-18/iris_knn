@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 DecodeLabs · Project 2 — Data Classification Using AI
 
 > **Batch 2026 | Powered by DecodeLabs**
@@ -156,3 +157,6 @@ numpy
 ---
 
 *Made with ❤️ at DecodeLabs*
+=======
+# iris_knn
+>>>>>>> 7968426659ba27b11b6a6683fa6e78151f3ba67b
